@@ -1,3 +1,7 @@
+### Resources  
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript.git)  
+- [Advanced Javascript Essentials](http://englishonlineclub.com/pdf/Advanced%20JavaScript%20Essentials%20[EnglishOnlineClub.com].pdf) 
+# 
 - [Data Types](#data-types)  
 		- [Primitive Data Types](#primitive-data-types)  
 		- [Non-Primitive Data Types](#non-primitive-data-types)  
